@@ -1,12 +1,12 @@
-# Esteban
+# Esteban Romani
 
-Estudiante de Software Engineering enfocado en desarrollar software, trabajar con datos y seguir construyendo experiencia practica en tecnologia.
+Formandome en desarrollar software, trabajar con datos y seguir construyendo experiencia practica en tecnologia.
 
 ## Sobre mi
 
-Soy estudiante de Software Engineering con interes en desarrollo de software, datos, automatizacion e inteligencia artificial.
+Actualmente me encuentro desarrollando proyectos y fortaleciendo habilidades en desarrollo de software, datos, automatizacion e inteligencia artificial.
 
-Tengo ademas una formacion previa en Ciencias Sociales, que hoy complementa mi forma de analizar problemas, entender contextos y aprender desde distintas perspectivas.
+Mi formacion previa en Ciencias Sociales y Ciencia de Datos complementa mi enfoque analitico y mi forma de entender problemas desde distintas perspectivas.
 
 ## Tecnologias
 
@@ -31,21 +31,21 @@ Tengo ademas una formacion previa en Ciencias Sociales, que hoy complementa mi f
 
 ## Proyectos
 
-- **Sistema de ventas en Java** - Proyecto academico enfocado en logica de negocio, programacion orientada a objetos y estructura de aplicaciones de escritorio.
-  Link: `pendiente`
+- **Sistema de ventas en Java - Elipse** - Proyecto academico enfocado en logica de negocio y estructura de aplicaciones de escritorio.
+  Link: 
 
 - **Dashboard en Power BI** - Proyecto de visualizacion de datos orientado a explorar metricas, presentar informacion de forma clara y fortalecer habilidades de analisis.
-  Link: `pendiente`
+  Link: 
 
 ## Intereses
 
 - Software Engineering
 - Full Stack Development
 - Data & AI
-- Automation
+- Automatization
 - Developer Tools
 
 ## Contacto
 
-- Portafolio: `pendiente`
-- LinkedIn: `pendiente`
+- Portafolio: 
+- LinkedIn: https://www.linkedin.com/in/esteban-romani/
