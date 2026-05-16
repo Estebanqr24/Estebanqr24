@@ -1,4 +1,4 @@
-# Hola, soy Esteban Romani 👋
+# 👋 Hola, soy Esteban Romani 
 
 Formandome en desarrollo de software, datos, automatizacion y construccion de soluciones utiles.
 
@@ -8,7 +8,7 @@ Actualmente me encuentro desarrollando proyectos y fortaleciendo habilidades en 
 
 Mi formacion previa en Ciencias Sociales y Ciencia de Datos complementa mi enfoque analitico y mi forma de entender problemas desde distintas perspectivas.
 
-## Tecnologias 🛠
+## 🛠 Tecnologias 
 
 - Python
 - SQL
@@ -20,7 +20,7 @@ Mi formacion previa en Ciencias Sociales y Ciencia de Datos complementa mi enfoq
 - Git
 - GitHub
 
-## Actualmente aprendiendo 📚
+## 📚 Actualmente aprendiendo 
 
 - Desarrollo de software
 - Desarrollo web
@@ -29,29 +29,30 @@ Mi formacion previa en Ciencias Sociales y Ciencia de Datos complementa mi enfoq
 - Conceptos Full Stack
 - Fundamentos de Machine Learning
 
-## Proyectos 💻
+## 💻 Repositorios y proyectos 
 
-- **Sistema de ventas en Java - Elipse**  
-  Proyecto academico enfocado en logica de negocio, programacion orientada a objetos y estructura de aplicaciones de escritorio.  
-  Link: `pendiente`
+- **Power Bi projects**  
+  Proyectos donde desarrollo dashboards y otros tableros a partir de medidas dax, columnas calculadas, etc., orientadas a la analítica comercial 
+  [Ver repositorio](https://github.com/Estebanqr24/001-Power-Bi-Projects)
 
-- **Dashboard en Power BI**  
-  Proyecto de visualizacion de datos orientado a explorar metricas, organizar informacion y presentar hallazgos de forma clara.  
-  Link: `pendiente`
+- **Leraning Lab**  
+  Repostiorio donde estoy subiendo la formación que estoy llevando en teconologías como Python, Java, C**, Net. 
+  [Ver repositorio](https://github.com/Estebanqr24/learning-lab)
 
-## Intereses 🎯
 
-- Software Engineering
-- Full Stack Development
+## 🎯 Intereses 
+
 - Data & AI
 - Automation
+- Software Engineering
+- Full Stack Development
 - Developer Tools
 
-## Contacto 📫
+## 📫 Contacto 
 
 - LinkedIn: [esteban-romani](https://www.linkedin.com/in/esteban-romani/)
-- Portafolio: 
+- Portafolio: 'pendiente'
 
 ---
 
-*Gracias por pasar por mi perfil. Siempre estoy aprendiendo y sumando experiencia paso a paso.*
+*Gracias por pasar por mi perfil. Trato de aprender siempre y seguir sumando experiencia.*
